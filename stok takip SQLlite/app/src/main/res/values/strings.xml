@@ -1,0 +1,172 @@
+<resources>
+    <string name="app_name">StokTakip</string>
+
+    <string name="title_activity_anasayfa">AnasayfaActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Kullanıcı Adı</string>
+    <string name="nav_iade_stoklistesi_title">İade Stok Listesi</string>
+    <string name="nav_stoklistesi_title">Stok Listesi</string>
+    <string name="nav_urunsat_title">Ürünleri Sat</string>
+    <string name="nav_urunal_title">Ürünleri Al</string>
+    <string name="nav_azalanurunler_title">Azalan Ürünler</string>
+    <string name="nav_islemgecmisi_title">İşlem Geçmişi</string>
+    <string name="nav_iadeler_title">İadeler</string>
+    <string name="nav_istatistikler_title">İstatistikler</string>
+    <string name="nav_veritabani_title">Veritabanı</string>
+    <string name="nav_ayarlar_title">Ayarlar</string>
+    <string name="nav_cikis_yap_title">Çıkış Yap</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_cikis_yap">Çıkış Yap</string>
+    <string name="tl">₺</string>
+    <string name="tl2">₺ /</string>
+    <string name="alinanurunsayisi">Alınan ürün sayısı:</string>
+    <string name="satilanurunsayisi">Satılan ürün sayısı:</string>
+    <string name="iadealinanurunsayisi">İade alınan ürün sayısı:</string>
+    <string name="iadeverilenurunsayisi">İade verilen ürün sayısı:</string>
+    <string name="kalanurunsayisi">Kalan ürün sayısı:</string>
+    <string name="kullanicisatilanurungideri">kullanıcısına ait satılan ürünlerin vergisiz maliyeti:</string>
+
+    <string name="toplamkar">Toplam Kâr:</string>
+    <string name="vergi3">Toplam Vergi:</string>
+
+    <string name="giris">Giriş Yap</string>
+    <string name="kadi">Kullanıcı Adı</string>
+    <string name="sifre">Şifre</string>
+    <string name="sifretekrar">Şifre Tekrarı</string>
+    <string name="yeni_sifre">Yeni Şifre</string>
+    <string name="yeni_sifre_terkrar">Yeni Şifre Tekrarı</string>
+    <string name="kaydol">Hesabınız yok mu? Kayıt olun.</string>
+    <string name="hatirla">Giriş bilgilerini hatırla</string>
+    <string name="uyeol">Kayıt Ol</string>
+    <string name="sepet">Ürün Sepeti</string>
+    <string name="aciklama">Açıklama (İsteğe Bağlı)</string>
+    <string name="aciklamaZ">(Zorunlu)</string>
+    <string name="iadelisteinfo">İade etmek istedeiğiniz ürünü seçin</string>
+    <string name="stokeklenecekinfo">Stoğa eklenecek ürün adeti</string>
+
+    <string name="sepetaciklamahint">Bu sepet için bir açıklama girilmemiş.</string>
+    <string name="iadeaciklamahint">Bu iade için bir açıklama girilmemiş. </string>
+
+    <string name="kullanicigideri">Kullanıcısının Gideri</string>
+    <string name="kullanicigetiri">Kullanıcısının Getirisi</string>
+    <string name="kullanicivergileri">Kullanıcısının Vergileri</string>
+    <string name="tumvergi">Vergiler</string>
+    <string name="tumciro">Ciro</string>
+    <string name="tumgider">Giderler</string>
+    <string name="tumgiderVergi">Vergi Dahil Giderler</string>
+    <string name="tumgetiri">Getiriler</string>
+
+    <string name="urunal">Ürünleri Al</string>
+    <string name="urunsat">Ürünleri Sat</string>
+    <string name="urunekle">Yeni Ürün Ekle</string>
+    <string name="urunguncelle">Ürün Güncelle</string>
+    <string name="barkodno">Barkod No</string>
+    <string name="alisfiyati">Alış Fiyatı</string>
+    <string name="satisfiyati">Satış Fiyatı</string>
+    <string name="ekle">Ekle</string>
+    <string name="vergiorani">Vergi oranı</string>
+    <string name="karorani">İstenilen kâr oranı</string>
+    <string name="resimsec">Resim seç</string>
+
+    <string name="noData">Görüntülenecek veri yok.</string>
+
+    <string name="urunadi">Ürün Adı</string>
+    <string name="ornekbarkod">123456789012</string>
+    <string name="ornekstokadet">123</string>
+    <string name="ornekfiyat">1.25/1.75</string>
+    <string name="sepetno">Sepet no: </string>
+    <string name="islemturu">İşlem Türü: </string>
+    <string name="tutar">Tutar: </string>
+    <string name="kargo">Kargo: </string>
+    <string name="kargovergi1">Kargo Vergisi: </string>
+    <string name="vergi">Ürün Vergisi: </string>
+    <string name="kullanıcı">Kullanıcı: </string>
+    <string name="aciklama1">Açıklama: </string>
+    <string name="toplam">Toplam: </string>
+
+    <string name="ortgelisfiyatı">Ort. geliş fiyatı</string>
+    <string name="istenenkarorani">İstenen kâr oranı</string>
+    <string name="fiyat">Fiyat</string>
+    <string name="kdvfiyat">Vergi D. Fiyat</string>
+    <string name="vergi2">Vergi</string>
+    <string name="kargo2">Kargo</string>
+    <string name="toplam2">Toplam</string>
+    <string name="komisyon">Komisyon</string>
+    <string name="komisyon2">Komisyon :</string>
+    <string name="kargotoplam">Toplam Kargo</string>
+    <string name="geneltoplam">Genel Toplam</string>
+    <string name="toplamvergi">Toplam Vergi</string>
+    <string name="toplamadet">Toplam Adet</string>
+    <string name="bozukurunadet">Bozuk Ürün Adeti</string>
+    <string name="iadeadeti">İade Adeti</string>
+    <string name="iadetutari">İade Tutarı</string>
+    <string name="adetalisfiyati">Adet Alış Fiyatı</string>
+    <string name="stoğaekle">Stoğa Ekle</string>
+
+    <string name="stoksil">Sil</string>
+    <string name="stokguncelle">Güncelle</string>
+    <string name="iptal">İptal</string>
+    <string name="bozukurun">Bozuk ürün</string>
+    <string name="iade">İade</string>
+    <string name="onay">Onayla</string>
+    <string name="alim">Alım</string>
+    <string name="stokdegeri">Stok Değeri</string>
+    <string name="alımVergi">Ödenen Ürün V.</string>
+    <string name="satım">Satım</string>
+    <string name="satımVergi">Alınan Ürün V.</string>
+    <string name="kargoVergi">Kargo Vergisi</string>
+    <string name="alınankargoV">Alınan Kargo V.</string>
+    <string name="odenenkargoV">Ödenen Kargo V.</string>
+
+    <string name="alisExcel">Bütün alışları Excel olarak kaydet.</string>
+    <string name="satisExcel">Bütün satışları Excel olarak kaydet.</string>
+    <string name="sepetExcel">Bütün sepetleri Excel olarak kaydet.</string>
+    <string name="stokExcel">Bütün stokları Excel olarak kaydet.</string>
+    <string name="urunExcel">Bütün ürünleri Excel olarak kaydet.</string>
+    <string name="iadeExcel">Bütün iadeleri Excel olarak kaydet.</string>
+    <string name="bozukurunExcel">Bütün bozuk ürünleri Excel olarak kaydet.</string>
+    <string name="istatistikExcel">Bütün istatistikleri Excel olarak kaydet.</string>
+    <string name="iadestokExcel">Bütün iade stoklarını Excel olarak kaydet.</string>
+
+    <string name="sepetbosalt">Sepeti Boşalt</string>
+    <string name="sepetbos">Sepette hiç ürün yok.</string>
+
+    <string name="esik">Azalan Ürün Eşiği: </string>
+    <string name="kaydet">Kaydet</string>
+    <string name="kargovergi">Kargo Vergi Oranı:</string>
+
+    <string name="spinner_id">spinner</string>
+
+    <string-array name="spinner_filtre_sureleri">
+        <item>Son 1 Gün</item>
+        <item>Son 1 Hafta</item>
+        <item>Son 1 Ay</item>
+        <item>Son 3 Ay</item>
+        <item>Bütün Kayıtlar</item>
+    </string-array>
+
+    <string name="filtreleme">Filtreleme</string>
+    <string name="tarih_araligi">Tarih Aralığı</string>
+    <string name="ornek_baslangic_tarihi">2019–05–03\u0020\u0020</string>
+    <string name="tire">-</string>
+    <string name="ornek_bitis_tarihi">2019–05–04\u0020\u0020</string>
+    <string name="islem_turu">İşlem Türü</string>
+    <string name="filtrele">Filtrele</string>
+    <string-array name="spinner_islem_turleri">
+        <item>Tümü</item>
+        <item>Alım</item>
+        <item>Satım</item>
+    </string-array>
+
+    <string name="ornek_gun">23</string>
+    <string name="ornek_ay">May</string>
+    <string name="ornek_saat">13:38</string>
+    <string name="ornek_adet">5</string>
+    <string name="adet_text">Adet</string>
+    <string name="ornek_kullanici">kullanici</string>
+    <string name="kadi_guncelle">Güncelle</string>
+    <string name="kullanici_ayarlari">Kullanıcı Ayarları</string>
+    <string name="sifre_degistir">Şifre Ve Resim Değiştir</string>
+</resources>
