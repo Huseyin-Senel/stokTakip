@@ -13,3 +13,7 @@ This is the enhanced version
 -Stats updated
 -Database can be saved as excel
 -transaction history is now more detailed
+<ul>
+<li>Line 1</li>
+<li>Line 2</li>
+</ul>
