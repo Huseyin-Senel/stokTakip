@@ -4,7 +4,7 @@ Original source: https://github.com/mertcansegmen/stoktakip
 
 This is the enhanced version
 
--Taxes added
+-Taxes added/n
 -Pictures added
 -Shipping added
 -Commission added
