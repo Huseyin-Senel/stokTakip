@@ -5,8 +5,11 @@ Original source: https://github.com/mertcansegmen/stoktakip
 This is the enhanced version
 
 -Taxes added
+
 -Pictures added
+
 -Shipping added
+
 -Commission added
 -Returns added
 -Added MySQL server support
