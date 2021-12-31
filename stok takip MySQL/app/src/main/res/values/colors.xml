@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="floatingActionButton">#00766A</color>
+    <color name="dividerArkaplan">#1AFFFFFF</color>
+    <color name="listeArkaplan">#3D3D3D</color>
+    <color name="sepetArkaplan">#292929</color>
+    <color name="grafikArkaplan">#4D4D4D</color>
+    <color name="silButon">#FF5F56</color>
+    <color name="bozukurunButon">#4583FF</color>
+    <color name="guncelleButon">#FFBD2E</color>
+    <color name="ekleButon">#008000</color>
+    <color name="giderRenk">#FF6161</color>
+    <color name="ciroRenk">#008FFB</color>
+    <color name="karRenk">#00E396</color>
+    <color name="urunGetirisi">#FEB019</color>
+    <color name="beyaz">#FFFFFF</color>
+    <color name="Transparent">#00000000</color>
+</resources>
