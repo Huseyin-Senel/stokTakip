@@ -1,4 +1,4 @@
-# stokTakip
+# Stok Takip
 
 Original source: https://github.com/mertcansegmen/stoktakip
 
