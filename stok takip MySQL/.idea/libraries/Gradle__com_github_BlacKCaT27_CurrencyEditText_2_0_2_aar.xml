@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.BlacKCaT27:CurrencyEditText:2.0.2@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3db317719a396f5e80ce336a52160fa4/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3db317719a396f5e80ce336a52160fa4/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3db317719a396f5e80ce336a52160fa4/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.BlacKCaT27/CurrencyEditText/2.0.2/4db8947610d3549becaba32ef0c413cb40334039/CurrencyEditText-2.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
