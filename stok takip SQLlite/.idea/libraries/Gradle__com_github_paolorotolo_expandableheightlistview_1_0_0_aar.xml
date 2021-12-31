@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.paolorotolo:expandableheightlistview:1.0.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0a2d3835ccb05908b0ecc49fb0b2baf5/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f23171102318814039a51c2bda21afb6/expandableheightlistview-1.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/84873ecb0e18d60b1c7378d684ed5e9f/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0a2d3835ccb05908b0ecc49fb0b2baf5/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0a2d3835ccb05908b0ecc49fb0b2baf5/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.paolorotolo/expandableheightlistview/1.0.0/d1c243f8c4b741842b7b07c76af5ff856a989013/expandableheightlistview-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
